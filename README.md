@@ -18,7 +18,7 @@ The data for these experiments can be downloaded from [here.](https://zenodo.org
 The model created is a 1D convolutional neural network followed by a dense network. We use a 1D convolution network to map the spatial sequence of the histone modification signals. For more details please have a look at the paper.
 
 <figure>
-  <img src="./images/model.jpg" alt="model">
+  <img src="./images/model.JPG" alt="model">
   <figcaption><p style="text-align:center">The proposed network architecture</p></figcaption>
 </figure>
 
